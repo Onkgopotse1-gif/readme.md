@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/04/30 10:23:13.000.944,=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 21:10:37.000.148,=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/18 00:44:48.000.017,=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/18 13:56:11.000.257,=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/18 13:57:13.000.422,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\login.pas</Transaction>
+    <Transaction>2025/06/18 13:57:13.000.422,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\login.dfm</Transaction>
+    <Transaction>2025/06/18 13:59:26.000.396,=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/18 13:59:42.000.473,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\dashboard.pas</Transaction>
+    <Transaction>2025/06/18 13:59:42.000.474,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\dashboard.dfm</Transaction>
+    <Transaction>2025/06/18 14:01:20.000.537,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\login.dfm=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\login.dfm</Transaction>
+    <Transaction>2025/06/18 14:01:20.000.537,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\login.pas=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\login.pas</Transaction>
+    <Transaction>2025/06/18 14:01:24.000.140,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\dashboard.pas=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\dashboard.pas</Transaction>
+    <Transaction>2025/06/18 14:01:24.000.140,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\dashboard.dfm=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\dashboard.dfm</Transaction>
+    <Transaction>2025/06/18 14:01:49.000.003,C:\Users\offic\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\Project1.dproj</Transaction>
+    <Transaction>2025/06/18 14:12:30.000.814,=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\Unit2.pas</Transaction>
+    <Transaction>2025/06/18 14:45:40.000.914,C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\Project1.dproj=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\Project1.dproj</Transaction>
+    <Transaction>2025/06/18 15:03:04.000.476,C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\dashboard.pas=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\customer.pas</Transaction>
+    <Transaction>2025/06/18 15:03:04.000.476,C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\dashboard.dfm=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\customer.dfm</Transaction>
+    <Transaction>2025/06/18 15:03:13.000.642,=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\Unit3.pas</Transaction>
+    <Transaction>2025/06/18 15:03:41.000.481,C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\Unit3.pas=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\AdminForm.pas</Transaction>
+    <Transaction>2025/06/18 15:03:41.000.481,C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\Unit3.dfm=C:\Users\offic\Downloads\GR12ITPATOnkgopotseZitha\Phase 1\AdminForm.dfm</Transaction>
+    <Transaction>2025/07/29 13:08:14.000.879,=D:\GR12ITPATOnkgopotseZitha\Phase 2\Unit2.pas</Transaction>
+    <Transaction>2025/07/29 13:08:38.000.119,D:\GR12ITPATOnkgopotseZitha\Phase 2\Unit2.dfm=D:\GR12ITPATOnkgopotseZitha\Phase 2\dbmDatabase.dfm</Transaction>
+    <Transaction>2025/07/29 13:08:38.000.119,D:\GR12ITPATOnkgopotseZitha\Phase 2\Unit2.pas=D:\GR12ITPATOnkgopotseZitha\Phase 2\dbmDatabase.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AdminForm.pas"/>
+    <File Path="AdminForm.dfm"/>
+    <File Path="customer.pas"/>
+    <File Path="customer.dfm"/>
+    <File Path="dbmDatabase.pas"/>
+    <File Path="dbmDatabase.dfm"/>
+    <File Path="login.pas"/>
+    <File Path="login.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
